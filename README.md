@@ -1,6 +1,6 @@
 # Mario-Ștefan Alupului
 
-B.Eng. student in Automation and Applied Informatics (TUIASI), on Erasmus+ at TU/e.
+B.Eng. student in Automatic Control and Applied Informatics (TUIASI), on Erasmus+ at TU/e.
 
 ## Projects
 - Handwritten Digit Classification: rank-15 SVD subspace classifier, 94.12% on the USPS test set, 12.5× faster than nearest neighbor (MATLAB)
